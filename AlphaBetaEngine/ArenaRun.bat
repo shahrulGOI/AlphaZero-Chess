@@ -1,0 +1,1 @@
+python src/AlphaBeta/run.py --cmd uci
